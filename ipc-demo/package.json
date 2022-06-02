@@ -1,0 +1,16 @@
+{
+  "name": "IPC",
+  "version": "1.0.0",
+  "description": "IPC communication between main and renderer process",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "BrainBell.com",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.9",
+    "express":"^4.17.1"
+  }
+}
